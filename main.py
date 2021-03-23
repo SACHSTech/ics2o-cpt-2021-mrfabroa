@@ -1,5 +1,5 @@
 """ 
-My CPT
+My CPT v2
 """
  
 import pygame
